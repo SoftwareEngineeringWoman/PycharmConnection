@@ -27,11 +27,15 @@ https://www.youtube.com/watch?v=8hly31xKli0
 Blind75 neetcode and then all levels
 https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf
 
+python backend roadmap
+https://www.youtube.com/watch?v=1QI0wDJeXO4
+
 python projects
 
 tim
 https://www.youtube.com/watch?v=th4OBktqK1I&t=528s
 20 projects freecodecamp
 https://www.youtube.com/watch?v=pdy3nh1tn6I
-
+backend project freecodecamp
+https://www.youtube.com/watch?v=jBzwzrDvZ18&t=90s
 
