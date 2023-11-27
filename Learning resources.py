@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8
 python backend roadmap
 https://www.youtube.com/watch?v=1QI0wDJeXO4
 
+Python Backend Web Development Course (with Django)
+https://www.youtube.com/watch?v=jBzwzrDvZ18&t=14847s
+
 python projects
 
 tim
